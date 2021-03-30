@@ -63,7 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-Demo: [Pizza Restaurant]()
+Demo: [Pizza Restaurant](https://punk-react-pizza-restaurant.netlify.app)
 
 ### `yarn build` fails to minify
 
